@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -61,6 +61,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="PAGES\ABOUT US\ABOUT US.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAGES\ABOUT US\ABOUT US.Designer.cs">
+      <DependentUpon>ABOUT US.cs</DependentUpon>
+    </Compile>
     <Compile Include="PAGES\BOOKING\Form2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,16 +79,28 @@
     <Compile Include="PAGES\BOOKING\Form3.Designer.cs">
       <DependentUpon>Form3.cs</DependentUpon>
     </Compile>
+    <Compile Include="PAGES\LOCATION\LOCATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAGES\LOCATION\LOCATION.Designer.cs">
+      <DependentUpon>LOCATION.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAGES\ABOUT US\ABOUT US.resx">
+      <DependentUpon>ABOUT US.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PAGES\BOOKING\Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PAGES\BOOKING\Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAGES\LOCATION\LOCATION.resx">
+      <DependentUpon>LOCATION.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -110,10 +128,6 @@
   <ItemGroup>
     <None Include="Resources\bsckground.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="PAGES\ABOUT US\" />
-    <Folder Include="PAGES\FACILITIES\" />
-    <Folder Include="PAGES\LOCATION\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
