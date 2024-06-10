@@ -1,1 +1,0 @@
-GAIL >> nadagdagan ko na ung dun sa booking, try ko damihan progress mamaya pag gising ko or pag nawala na sakit ng ulo ko, update din kayo dito pag may nadagdag kayo sa part nyo hahaha
