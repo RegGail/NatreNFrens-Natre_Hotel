@@ -1,0 +1,129 @@
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\bin\Debug\NatreHote;.exe
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\bin\Debug\NatreHote;.exe.config
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHote_.BOOKINGprocess.resources
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHote;.exe
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\obj\Debug\NatreHote;.pdb
+D:\school crap\College Hell\New folder\C# Codes (VS)\NatreHote;\bin\Debug\NatreHote;.pdb
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote_.BOOKINGprocess.resources
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote;.exe
+C:\Users\Ellen Grace Sinday\Source\Repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote;.pdb
+C:\Users\Ellen Grace Sinday\source\repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote_.Form_facilities.resources
+C:\Users\Ellen Grace Sinday\source\repos\NatreNFrens-Natre_Hotel\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs1.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGprocess.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe.config
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.pdb
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.exe
+C:\Users\LenovoT450\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.pdb
+D:\school crap\College Hell\New folder\Natre\NatreHote;\bin\Debug\NatreHote;.exe.config
+D:\school crap\College Hell\New folder\Natre\NatreHote;\bin\Debug\NatreHote;.exe
+D:\school crap\College Hell\New folder\Natre\NatreHote;\bin\Debug\NatreHote;.pdb
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs1.resources
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote_.BOOKINGprocess.resources
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote;.exe
+D:\school crap\College Hell\New folder\Natre\NatreHote;\obj\Debug\NatreHote;.pdb
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe.config
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.pdb
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs1.resources
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGprocess.resources
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.exe
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.pdb
+C:\Users\Sopia Lomibao\Downloads\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs2.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs1.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs2.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGprocess.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.exe
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.pdb
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe.config
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.pdb
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs3.resources
+C:\Users\lenovo\Downloads\NatreNFrens-Natre_Hotel-main\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs4.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\bin\Debug\NatreHote;.exe.config
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\bin\Debug\NatreHote;.exe
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\bin\Debug\NatreHote;.pdb
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs1.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs2.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs3.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs4.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote;.exe
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote;.pdb
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg2.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.BOOKING.BOOKINGpg3.resources
+D:\school crap\College Hell\New folder\Move to Natre\NatreHote;\obj\Debug\NatreHote_.PAGES.BOOKING.warning.resources
+C:\Natre\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+C:\Natre\NatreHote;\obj\Debug\NatreHote;.exe
+C:\Natre\NatreHote;\obj\Debug\NatreHote;.pdb
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe.config
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.exe
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\bin\Debug\NatreHote;.pdb
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.AssemblyReference.cache
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.HOMEPAGE.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs1.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs2.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs3.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ABOUT_US.AboutUs4.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ADMIN_MANAGER.ADMINLOG_IN.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg1.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.BOOKINGpg2.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.BOOKING.BOOKINGpg3.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.BOOKING.cashPopup.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.BOOKING.OLnBANK.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.BOOKING.warning.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.FACILITIES.facilities_new.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.LOCATION.location_new.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.Properties.Resources.resources
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.GenerateResource.cache
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHotel.csproj.CoreCompileInputs.cache
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.exe
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote;.pdb
+C:\Users\hp1\source\NatreNFrens-Natre_Hotel-main\NatreHote;\obj\Debug\NatreHote_.PAGES.ADMIN_MANAGER.STAFF_MANAGERpanel.resources
